@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginRegisterFirebase</string>
+    <string name="mobile_no">Mobile No:</string>
+</resources>
